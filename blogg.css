@@ -1,0 +1,193 @@
+.heading
+{
+    background-color: red !important;
+    width: 100%;
+    height: 40px;
+}
+.jumbotron-fluid
+{
+    background-color:black !important;
+    width: 100%;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    color: blanchedalmond;
+}
+#blog
+{
+    
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+   padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+
+
+}
+.navbar-custom
+{
+    color:white;
+    background-color: black;
+}
+.nav-link
+{
+    color:white ;
+}
+.nav-link:hover
+{
+    color: orange;
+}
+.navbar-brand:hover
+{
+    color:orange
+}
+.mar
+{
+    color:orange !important;
+    border-color: orange !important;
+}
+.mar:hover
+{
+   background-color: orange !important;
+   color: white !important;
+}
+.bb
+{
+    color: white;
+    background-color: black;
+}
+#hg
+{
+    text-align: center;
+
+}
+
+.headingg
+{
+    
+    color: grey !important;
+    width: 100%;
+    height: 60px;
+    padding: 20px;
+    font-size: 30px;
+
+}
+
+#bloggg
+{
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+.r1
+{
+    padding: 40px;
+}
+.thumbnail{
+    position: relative;
+    display:inline-block;
+  }
+  .thumbnail .thumbnail-overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:blue;
+    opacity:0;
+    transition:opacity 500ms ease-in-out;
+  }
+  .thumbnail:hover .thumbnail-overlay{
+    opacity:0.9;
+  }
+  .thumbnail-overlay .thumbnail-text{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color:white;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .thumbnail-text a
+  {
+      color: white;
+  }
+  .thumbnail-text a:hover
+  {
+      color: white;
+      text-decoration: none;
+  }
+ li
+{
+    display: inline-block;
+
+
+}
+ul
+  {
+      list-style-type: none;
+  }
+ 
+ol
+{
+    display: inline;
+}
+#fb
+{
+    padding: 10px;
+    color: black;
+}
+#ins
+{
+    padding: 10px;
+}
+#lin
+{
+    padding: 10px;
+}
+#git
+{
+    padding: 10px;
+}
+.fa
+  {
+      margin-top: 6px;
+      margin-right: 10px;
+      opacity: 0.7;
+  }
+  .fa:hover
+  {
+      opacity:1.0;
+  }
+
+  /* -----------------------------------------CONTACT ME-------------------------------------------- */
+  
+.form-group
+{
+    color:red;
+    font: bolder;
+    font-style: normal;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+   
+}
+.subb
+{
+    background-color: red;
+    color: papayawhip;
+    width: 300px;
+}
+#exampleInputPassword1
+{
+    width: 300px;
+}
+#exampleInputEmail1
+{
+    width: 300px;
+}
